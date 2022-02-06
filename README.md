@@ -11,9 +11,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Java project
-- 🌱 I’m currently learning **javascript and node js**
-- 👯 I’m looking to collaborate on **DSA**
+- 🔭 I’m currently working on Javascript projects
+- 🌱 I’m currently learning **Back-end and block chain**
+- 👯 I also crate **NFTs**
 - 🤔 I’m looking for **Internship**
 <!--- 💬 Ask me about -->
 - 📫 How to reach me: **[email](mitulchavda100@gmail.com) [twitter](https://twitter.com/Mitul_Chavda_)**
