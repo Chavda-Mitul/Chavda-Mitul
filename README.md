@@ -15,7 +15,6 @@
 		<a href="https://www.python.org/">Python 🐍</a><br>
 		<a href="https://www.docker.com/">Docker 🐳</a>
 		<a href="https://www.mongodb.com/">PostgreSQL 🐘</a>
-		<a href="https://www.postgresql.org/">MongoDB 🍃</a>
 	</samp>
 	<br>
 	<samp> 
