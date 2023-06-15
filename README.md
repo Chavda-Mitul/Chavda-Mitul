@@ -14,7 +14,6 @@
 		<a href="https://www.oracle.com/java/">Java ☕</a>
 		<a href="https://www.python.org/">Python 🐍</a><br>
 		<a href="https://www.docker.com/">Docker 🐳</a>
-		<a href="https://www.mongodb.com/">PostgreSQL 🐘</a>
 	</samp>
 	<br>
 	<samp> 
