@@ -65,7 +65,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chavda-Mitul&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@
 ## 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/mitul-chavda-a37650213/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:YOUR_EMAIL">
