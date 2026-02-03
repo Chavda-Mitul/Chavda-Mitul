@@ -1,35 +1,101 @@
-<div align="center">
-	<h3><samp>「 Hi 👋, I'm Mitul 」</samp></h3> 
-</div>
+<!-- Header -->
+<h1 align="center">Hey 👋, I'm Mitul</h1>
+<h3 align="center">Software Developer | Builder | UI + Logic Nerd</h3>
 
-<div align="center">
-	<p>Full-stack software engineer & student. 
-<!--         <br><a href="https://nico.engineer">Want to know more about me?</a></p> -->
-	---
-	<samp> 
-		<h3>「 Tools and Languages 」</h4>
-		<a href="https://www.typescriptlang.org/">TypeScript 🧰</a>
-		<a href="https://www.javascript.com/">JavaScript 💡</a>
-		<a href="https://nodejs.org/">Node.js ⚙️</a>
-		<a href="https://www.oracle.com/java/">Java ☕</a>
-		<a href="https://www.python.org/">Python 🐍</a><br>
-		<a href="https://www.docker.com/">Docker 🐳</a>
-		<a href="https://www.docker.com/">C++</a>
-	</samp>
-	<br>
-	<samp> 
-		<!--<h3>「 Learning 」</h4>-->
-		<!--<a href="https://llvm.org/">C 💤</a>-->
-		<!--<a href="https://www.rust-lang.org/">Rust 🦀</a><br>-->
-		<!--<a href="https://www.haskell.org/">Haskell 🧮</a>-->
-		<!--<a href="https://kubernetes.io/">Kubernetes ☸️</a>-->
-	</samp>
-	<br>
-	<hr/>
-		<table align="center">
-				<tr>
-					<td><img alt="Mitul's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chavda-mitul&text_color=9f9f9f&bg_color=00000000&langs_count=10&layout=compact&hide=css,html,shell,dockerfile,powershell,markdown" /></td>
-					<td><img alt="Mitul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chavda-mitul&count_private=true&text_color=9f9f9f&bg_color=00000000&hide=stars&include_all_commits=true&show_icons=true" /></td>
-				</tr>
-		</table>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Product-Minded+Engineer;Clean+UI+%7C+Scalable+Logic;Always+Learning+%F0%9F%9A%80&center=true&width=500&height=45">
+</p>
+
+---
+
+## 🧠 About Me
+
+- 💻 Software Developer who loves **building real products**, not just demos  
+- 🧩 Strong in **frontend logic + backend thinking**
+- 🎯 Focused on **clean UI, performance, and maintainable code**
+- 🏋️ Gym 5x/week → same discipline applies to code
+- 🚀 Currently exploring **AI-powered apps & product-first engineering**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![MUI](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=mui)
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+
+### ⚙️ Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+
+---
+
+## 📌 What I’m Good At
+
+✅ Turning **complex requirements into clean UI**  
+✅ Writing **logic-heavy, state-driven components**  
+✅ Designing **custom form systems & dynamic fields**  
+✅ Debugging weird edge cases others avoid 😄  
+✅ Thinking like a **product owner + engineer**
+
+---
+
+## 🔥 Featured Work (Pin These Repos)
+
+> ⭐ Pin your best projects on GitHub for max impact
+
+- **Dynamic Form Builder** – reusable fields, validation, previews  
+- **Business Operations App** – orders, inventory, vendors, payments  
+- **Custom UI Components** – date pickers, file fields, editors  
+- **AI / Automation Experiments** – productivity & smart workflows
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🧩 Fun Facts
+
+- ☕ Debugs better after coffee  
+- 🧠 Loves solving **logic-heavy UI problems**
+- 🏗️ Enjoys building things from **scratch**
+- 🎯 Believes: *“Good UX is invisible engineering”*
+
+---
+
+## 📬 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
+
+<p align="center">
+  <b>“Build things that matter.”</b> 🚀
+</p>
