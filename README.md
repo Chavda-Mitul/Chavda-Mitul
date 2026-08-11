@@ -51,8 +51,6 @@
 
 ## 🔥 Featured Work (Pin These Repos)
 
-> ⭐ Pin your best projects on GitHub for max impact
-
 - **Dynamic Form Builder** – reusable fields, validation, previews  
 - **Business Operations App** – orders, inventory, vendors, payments  
 - **Custom UI Components** – date pickers, file fields, editors  
