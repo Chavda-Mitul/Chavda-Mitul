@@ -23,7 +23,6 @@
 ### 🚀 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin)
 
 ### 🎨 Frontend
